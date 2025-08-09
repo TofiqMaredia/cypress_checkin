@@ -1,0 +1,14 @@
+{
+    "standardUser": {
+        "username": "admin",
+        "password": "checkin@123"
+    },
+    "invalidUsername": {
+        "username": "admin1",
+        "password": "checkin@123"
+    },
+    "invalidPassword": {
+        "username": "admin",
+        "password": "checkin@1234"
+    }
+}
